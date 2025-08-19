@@ -1,0 +1,9 @@
+button {
+    width: 180px;
+    border-radius: 25px;
+    background-color: #279fb0;
+    border-color: #279fb0;
+    color: white;
+    cursor: pointer;
+    font-family: Tahoma;
+}
